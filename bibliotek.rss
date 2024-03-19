@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>SaTyR Bibliotek opdateringer</title>
+    <link>https://www.satyr.dk/bibliotek</link>
+    <description>Følg med i opdateringer og ændringer i SaTyRs bibliotek.</description>
+    <language>da</language>
+    <managingEditor>kristoffer@levinhansen.dk</managingEditor>
+    <webMaster>kroell@satyr.dk</webMaster>
+    <image>
+      <title>SaTyR Bibliotek opdateringer</title>
+      <link>https://www.satyr.dk/bibliotek</link>
+      <url>https://lh6.googleusercontent.com/CWn7MikLSKVw5mk_tJuSxkrZGXIBr-J7la5H1Xc4CxCIBOmsRh8uJVoS8Tln5ZAeVtDgrQq0akUq_o4E9HxxiY8</url>
+      <width>1600</width>
+      <height>933</height>
+    </image>
+    <item>
+      <title>Første Åbningsdag</title>
+      <pubDate>Tue, 19 Mar 2024 01:11:37 +0100</pubDate>
+      <link>https://www.satyr.dk/bibliotek</link>
+      <author>kristoffer@levinhansen.dk</author>
+      <description><![CDATA[På sin første åbningsdag har SaTyRs bibliotek følgende emner og titler: 
+<ul>
+<li>Manuskriptskrivning 
+<ul>
+<li>LaTeX-klassen 
+<li>RevyTeX </li></ul>
+<li>FysikRevyTeX 
+<ul>
+<li>AV 
+<li>ÜberTeX 
+<li>AV™ 
+<li>KemiRevy-AV 
+<li>PowerPoint© </li></ul>
+<li>Program 
+<ul>
+<li>FysikRevyen™s web-program </li></ul></li></ul>]]></description>
+    </item>
+  </channel>
+</rss>
