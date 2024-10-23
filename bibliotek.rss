@@ -19,7 +19,7 @@
       <title>Backstage Infoskærm</title>
       <pubDate>Wed, 23 Oct 2024 20:53:02 +0200</pubDate>
       <link>https://www.satyr.dk/bibliotek</link>
-      <guid>backstage-ticker</guid>
+      <guid isPermaLink="false">backstage-ticker</guid>
       <author>kristoffer@levinhansen.dk (Kristoffer Levin Hansen)</author>
       <description><![CDATA[Biblioteket har nu information om en infoskærm til backstage.]]></description>
     </item>
@@ -27,7 +27,7 @@
       <title>Kontaktformular</title>
       <pubDate>Mon, 3 Jun 2024 20:50:54 +0200</pubDate>
       <link>https://www.satyr.dk/bibliotek</link>
-      <guid>kontaktformular</guid>
+      <guid isPermaLink="false">kontaktformular</guid>
       <author>kristoffer@levinhansen.dk (Kristoffer Levin Hansen)</author>
       <description><![CDATA[Biblioteket har nu en kontaktformular, hvor der kan foreslås tilføjelser.]]></description>
     </item>
@@ -35,7 +35,7 @@
       <title>Første Åbningsdag</title>
       <pubDate>Tue, 19 Mar 2024 01:11:37 +0100</pubDate>
       <link>https://www.satyr.dk/bibliotek</link>
-      <guid>start</guid>
+      <guid isPermaLink="false">start</guid>
       <author>kristoffer@levinhansen.dk (Kristoffer Levin Hansen)</author>
       <description><![CDATA[På sin første åbningsdag har SaTyRs bibliotek følgende emner og titler: 
 <ul>
