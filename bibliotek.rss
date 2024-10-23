@@ -6,8 +6,8 @@
     <link>https://www.satyr.dk/bibliotek</link>
     <description>Følg med i opdateringer og ændringer i SaTyRs bibliotek.</description>
     <language>da</language>
-    <managingEditor>kristoffer@levinhansen.dk</managingEditor>
-    <webMaster>kroell@satyr.dk</webMaster>
+    <managingEditor>kristoffer@levinhansen.dk (Kristoffer Levin Hansen)</managingEditor>
+    <webMaster>kroell@satyr.dk (Krøll)</webMaster>
     <image>
       <title>SaTyR Bibliotek opdateringer</title>
       <link>https://www.satyr.dk/bibliotek</link>
@@ -19,22 +19,24 @@
       <title>Backstage Infoskærm</title>
       <pubDate>Wed, 23 Oct 2024 20:53:02 +0200</pubDate>
       <link>https://www.satyr.dk/bibliotek</link>
-      <author>kristoffer@levinhansen.dk</author>
+      <guid>backstage-ticker</guid>
+      <author>kristoffer@levinhansen.dk (Kristoffer Levin Hansen)</author>
       <description><![CDATA[Biblioteket har nu information om en infoskærm til backstage.]]></description>
     </item>
     <item>
       <title>Kontaktformular</title>
       <pubDate>Mon, 3 Jun 2024 20:50:54 +0200</pubDate>
       <link>https://www.satyr.dk/bibliotek</link>
-      <guid isPermaLink="true">d</guid>
-      <author>kristoffer@levinhansen.dk</author>
+      <guid>kontaktformular</guid>
+      <author>kristoffer@levinhansen.dk (Kristoffer Levin Hansen)</author>
       <description><![CDATA[Biblioteket har nu en kontaktformular, hvor der kan foreslås tilføjelser.]]></description>
     </item>
     <item>
       <title>Første Åbningsdag</title>
       <pubDate>Tue, 19 Mar 2024 01:11:37 +0100</pubDate>
       <link>https://www.satyr.dk/bibliotek</link>
-      <author>kristoffer@levinhansen.dk</author>
+      <guid>start</guid>
+      <author>kristoffer@levinhansen.dk (Kristoffer Levin Hansen)</author>
       <description><![CDATA[På sin første åbningsdag har SaTyRs bibliotek følgende emner og titler: 
 <ul>
 <li>Manuskriptskrivning 
